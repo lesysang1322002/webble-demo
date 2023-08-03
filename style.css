@@ -1,0 +1,13 @@
+
+#Connect{
+   right:0ch;
+   position:absolute;
+   font-size: 30px;
+   width: 149px;height: 45px;
+   background-color:#29b97f;
+   border-radius: 10px;
+}
+html {font-family: Helvetica;display: inline-block;margin: 0px auto;text-align: center;}
+body { margin-top: 5px;}
+h1 {color: #3d3333; margin: 5px auto 2px;}
+h3 {color: #f11c1c;margin-bottom: 5px;}
